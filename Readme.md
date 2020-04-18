@@ -1,4 +1,5 @@
 `git clone git@github.com:Lampese/Simple-DDOS.git`
+
  `cd Simple-DDOS`
 
 CentOS:
